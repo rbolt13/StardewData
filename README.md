@@ -2,8 +2,6 @@
 Stardew Valley Data
 </h2>
 
-<div align="center">
-
 An R package containing one data set compiled from the [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki) (8 January 2024) on Stardew Valley items. 
 
 ## Installation
