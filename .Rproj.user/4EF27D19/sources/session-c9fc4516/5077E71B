@@ -1,26 +1,26 @@
 {
-    "id": "DD9254BE",
-    "path": "~/Desktop/2024/StardewData/README.md",
-    "project_path": "README.md",
+    "id": "5077E71B",
+    "path": "~/Desktop/2024/2024-PDX_RUG-Code_to_Content/README.md",
+    "project_path": null,
     "type": "markdown",
-    "hash": "3876881510",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1706760614361.0,
+    "created": 1706760976554.0,
     "source_on_save": false,
-    "relative_order": 6,
+    "relative_order": 7,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "30,34",
-        "scrollLine": "14"
+        "cursorPosition": "4,0",
+        "scrollLine": "4"
     },
     "folds": "",
-    "lastKnownWriteTime": 1706761373,
+    "lastKnownWriteTime": 1706056136,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1706761373034,
+    "last_content_update": 1706056136,
     "read_only": false,
     "read_only_alternatives": []
 }
