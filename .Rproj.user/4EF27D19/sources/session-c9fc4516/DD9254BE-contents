@@ -4,17 +4,6 @@ Stardew Valley Data
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp; [Website][Website]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [LinkedIn][LinkedIn]
-
-</div>
-
-<!--
-Quick Link
--->
-
-[Website]:https://www.rbolt.me/
-[LinkedIn]:https://www.linkedin.com/in/randi-bolt/
-
 An R package containing one data set compiled from the [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki) (8 January 2024) on Stardew Valley items. 
 
 ## Installation
@@ -30,3 +19,13 @@ Load the data with:
 ```
 data(items, package = "StardewData")
 ```
+
+## Data Dictionary
+
+### `items`
+
+| Variable | Class     | Description                                           |
+|----------|-----------|-------------------------------------------------------|
+| name     | character | The name of the item.                                 |
+| type     | character | The category of the item.                             |
+| season   | character | The season in which the item is available or can be harvested. |
